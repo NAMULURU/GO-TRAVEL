@@ -1,0 +1,29 @@
+{
+  "name": "gotravel",
+  "version": "1.0.0",
+  "description": "nbad project",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "save": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAMULURU/GO-TRAVEL.git"
+  },
+  "keywords": [
+    "travel"
+  ],
+  "author": "Naveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NAMULURU/GO-TRAVEL/issues"
+  },
+  "homepage": "https://github.com/NAMULURU/GO-TRAVEL#readme"
+}
